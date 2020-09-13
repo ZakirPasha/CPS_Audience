@@ -1,0 +1,39 @@
+"School_ID","Network.x","School_Name.x","Total_Students","Number_of_Bilingual","Bilingual_Percentage","Number_of_SpED","SpED_Percentage","Free.Reduced_Lunch","Lunch_Percentage","Network.y","School_Name.y","Total","White_No","White_Per","AA_No","AA_Per","AsianPI_No","AsianPI_Per","NativeAmerican_No","NativeAmerican_Per","Hispanic_No","Hispanic_Per","Multi_No","Multi_Per","Asian_No","Asian_Per","HawaiiPI_No","HawaiiPI_Per","NA_No","NA_Per"
+400091,"Contract","Chicago Technology Academy High School",315,6,1.9,77,24.44,277,87.94,"Contract","Chicago Technology Academy High School",315,6,1.9,249,79,0,0,0,0,58,18.4,2,0.63,0,0,0,0,0,0
+609674,"Network 17","Chicago Vocational Career Academy High School",766,14,1.83,216,28.2,707,92.3,"Network 17","Chicago Vocational Career Academy High School",766,2,0.3,739,96.5,0,0,1,0.1305,16,2.1,3,0.39,1,0.131,0,0,4,0.522
+609676,"Network 17","Paul Laurence Dunbar Career Academy High School",346,7,2.02,85,24.57,323,93.35,"Network 17","Paul Laurence Dunbar Career Academy High School",346,1,0.3,329,95.1,0,0,0,0,14,4,1,0.29,0,0,1,0.289,0,0
+609692,"Network 17","Neal F Simeon Career Academy High School",1338,6,0.45,165,12.33,1212,90.58,"Network 17","Neal F Simeon Career Academy High School",1338,0,0,1318,98.5,0,0,0,0,13,1,7,0.52,0,0,0,0,0,0
+609698,"Network 16","William J Bogan High School",749,80,10.68,159,21.23,678,90.52,"Network 16","William J Bogan High School",749,4,0.5,475,63.4,0,0,1,0.1335,264,35.2,2,0.27,0,0,1,0.1335,2,0.267
+609705,"Network 17","Christian Fenger Academy High School",263,NA,NA,48,18.25,246,93.54,"Network 17","Christian Fenger Academy High School",263,0,0,257,97.7,0,0,0,0,3,1.1,2,0.76,0,0,1,0.3802,0,0
+609710,"Network 17","John M Harlan Community Academy High School",300,1,0.33,75,25,288,96,"Network 17","John M Harlan Community Academy High School",300,0,0,294,98,0,0,0,0,5,1.7,1,0.33,0,0,0,0,0,0
+609711,"Network 16","William Rainey Harper High School",49,1,2.04,14,28.57,45,91.84,"Network 16","William Rainey Harper High School",49,0,0,47,95.9,0,0,0,0,2,4.1,0,0,0,0,0,0,0,0
+609712,"Network 17","Emil G Hirsch Metropolitan High School",95,2,2.11,39,41.05,91,95.79,"Network 17","Emil G Hirsch Metropolitan High School",95,0,0,91,95.8,0,0,2,2.1053,1,1.1,1,1.05,0,0,0,0,0,0
+609713,"Network 17","Hyde Park Academy High School",747,6,0.8,155,20.75,717,95.98,"Network 17","Hyde Park Academy High School",747,0,0,738,98.8,0,0,0,0,4,0.5,3,0.4,0,0,0,0,2,0.268
+609722,"Network 15","Manley Career Academy High School",84,NA,NA,39,46.43,68,80.95,"Network 15","Manley Career Academy High School",84,1,1.2,78,92.9,0,0,0,0,5,6,0,0,0,0,0,0,0,0
+609723,"Network 15","John Marshall Metropolitan High School",261,2,0.77,73,27.97,237,90.8,"Network 15","John Marshall Metropolitan High School",261,0,0,253,96.9,0,0,0,0,6,2.3,0,0,0,0,0,0,2,0.766
+609725,"Network 16","Morgan Park High School",1124,4,0.36,155,13.79,938,83.45,"Network 16","Morgan Park High School",1124,5,0.4,1086,96.6,0,0,0,0,17,1.5,6,0.53,0,0,0,0,10,0.89
+609726,"Network 17","Gwendolyn Brooks College Preparatory Academy HS",1007,2,0.2,59,5.86,696,69.12,"Network 17","Gwendolyn Brooks College Preparatory Academy HS",1007,8,0.8,784,77.9,0,0,0,0,188,18.7,7,0.7,0,0,3,0.2979,17,1.688
+609727,"AUSL","Wendell Phillips Academy High School",612,2,0.33,123,20.1,552,90.2,"AUSL","Wendell Phillips Academy High School",612,2,0.3,590,96.4,0,0,1,0.1634,9,1.5,0,0,0,0,0,0,10,1.634
+609745,"ISP","Southside Occupational Academy High School",329,53,16.11,329,100,296,89.97,"ISP","Southside Occupational Academy High School",329,18,5.5,218,66.3,0,0,0,0,91,27.7,0,0,1,0.304,0,0,1,0.304
+609748,"Network 16","Consuella B York Alternative HS",136,5,3.68,45,33.09,136,100,"Network 16","Consuella B York Alternative HS",136,3,2.2,100,73.5,0,0,3,2.2059,28,20.6,1,0.74,0,0,1,0.7353,0,0
+609750,"Network 15","Simpson Academy HS for Young Women",37,3,8.11,6,16.22,34,91.89,"Network 15","Simpson Academy HS for Young Women",37,0,0,28,75.7,0,0,0,0,9,24.3,0,0,0,0,0,0,0,0
+609751,"Network 17","Dr  Martin Luther King  Jr  College Prep HS",486,6,1.23,63,12.96,400,82.3,"Network 17","Dr  Martin Luther King  Jr  College Prep HS",486,1,0.2,465,95.7,0,0,1,0.2058,13,2.7,4,0.82,2,0.412,0,0,0,0
+609754,"Network 17","Chicago Military Academy High School",310,20,6.45,25,8.06,226,72.9,"Network 17","Chicago Military Academy High School",310,4,1.3,196,63.2,0,0,0,0,104,33.5,3,0.97,1,0.323,0,0,2,0.645
+609761,"Network 17","George H Corliss High School",280,3,1.07,88,31.43,256,91.43,"Network 17","George H Corliss High School",280,1,0.4,269,96.1,0,0,1,0.3571,7,2.5,2,0.71,0,0,0,0,0,0
+609762,"Network 16","Percy L Julian High School",385,1,0.26,101,26.23,351,91.17,"Network 16","Percy L Julian High School",385,0,0,377,97.9,0,0,0,0,7,1.8,1,0.26,0,0,0,0,0,0
+609783,"Network 16","Nancy B Jefferson Alternative HS",170,8,4.71,68,40,149,87.65,"Network 16","Nancy B Jefferson Alternative HS",170,5,2.9,132,77.6,0,0,0,0,32,18.8,0,0,0,0,0,0,1,0.588
+610244,"ISP","Michele Clark Academic Prep Magnet High School",535,10,1.87,98,18.32,516,96.45,"ISP","Michele Clark Academic Prep Magnet High School",535,0,0,518,96.8,0,0,1,0.1869,16,3,0,0,0,0,0,0,0,0
+610245,"Network 15","Frederick A Douglass Academy High School",58,1,1.72,18,31.03,48,82.76,"Network 15","Frederick A Douglass Academy High School",58,0,0,54,93.1,0,0,0,0,4,6.9,0,0,0,0,0,0,0,0
+610323,"Network 17","Bowen High School",241,21,8.71,78,32.37,213,88.38,"Network 17","Bowen High School",241,1,0.4,199,82.6,0,0,0,0,37,15.4,2,0.83,0,0,2,0.8299,0,0
+610334,"Network 15","Al Raby High School",271,12,4.43,88,32.47,258,95.2,"Network 15","Al Raby High School",271,1,0.4,246,90.8,0,0,0,0,22,8.1,0,0,1,0.369,1,0.369,0,0
+610380,"Network 17","Daniel Hale Williams Prep School of Medicine",126,NA,NA,18,14.29,121,96.03,"Network 17","Daniel Hale Williams Prep School of Medicine",126,0,0,124,98.4,0,0,0,0,1,0.8,1,0.79,0,0,0,0,0,0
+610381,"Network 17","Bronzeville Scholastic Academy High School",117,2,1.71,30,25.64,103,88.03,"Network 17","Bronzeville Scholastic Academy High School",117,0,0,113,96.6,0,0,0,0,3,2.6,0,0,1,0.855,0,0,0,0
+610389,"AUSL","Orr Academy High School",233,6,2.58,49,21.03,222,95.28,"AUSL","Orr Academy High School",233,0,0,209,89.7,0,0,0,0,24,10.3,0,0,0,0,0,0,0,0
+610391,"Network 16","Robert Lindblom Math & Science Academy HS",1362,25,1.84,73,5.36,849,62.33,"Network 16","Robert Lindblom Math & Science Academy HS",1362,44,3.2,947,69.5,0,0,4,0.2937,350,25.7,5,0.37,11,0.808,0,0,1,0.073
+610394,"Network 14","Uplift Community High School",123,20,16.26,63,51.22,110,89.43,"Network 14","Uplift Community High School",123,6,4.9,82,66.7,0,0,1,0.813,23,18.7,1,0.81,10,8.13,0,0,0,0
+610499,"AUSL","Collins Academy High School",227,1,0.44,63,27.75,221,97.36,"AUSL","Collins Academy High School",227,0,0,219,96.5,0,0,0,0,8,3.5,0,0,0,0,0,0,0,0
+610518,"Network 15","Austin College and Career Academy High School",245,2,0.82,74,30.2,227,92.65,"Network 15","Austin College and Career Academy High School",245,2,0.8,234,95.5,0,0,1,0.4082,7,2.9,1,0.41,0,0,0,0,0,0
+610547,"Network 17","South Shore Intl College Prep High School",587,4,0.68,51,8.69,486,82.79,"Network 17","South Shore Intl College Prep High School",587,0,0,568,96.8,0,0,0,0,13,2.2,5,0.85,1,0.17,0,0,0,0
+610561,"Network 15","Richard T Crane Medical Preparatory HS",420,6,1.43,36,8.57,359,85.48,"Network 15","Richard T Crane Medical Preparatory HS",420,4,1,332,79,0,0,1,0.2381,74,17.6,3,0.71,3,0.714,0,0,3,0.714
+610587,"Network 17","Walter Henri Dyett High School for the Arts",618,3,0.49,88,14.24,528,85.44,"Network 17","Walter Henri Dyett High School for the Arts",618,4,0.6,593,96,0,0,0,0,17,2.8,3,0.49,0,0,0,0,1,0.162
+610592,"Network 16","Englewood STEM High School",414,10,2.42,95,22.95,382,92.27,"Network 16","Englewood STEM High School",414,3,0.7,388,93.7,0,0,0,0,22,5.3,1,0.24,0,0,0,0,0,0
