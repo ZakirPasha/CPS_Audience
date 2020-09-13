@@ -1,2 +1,2 @@
 # CPS_Audience
-Data analysis to determine which schools to target for the Morningstar Financial Literacy Program.
+Data analysis to determine which Chicago Public Schools to target for the Morningstar Financial Literacy Program.
